@@ -1,0 +1,25 @@
+{
+  "name": "marloassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KumareshMamundi/MarloAssignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KumareshMamundi/MarloAssignment/issues"
+  },
+  "homepage": "https://github.com/KumareshMamundi/MarloAssignment#readme"
+}
