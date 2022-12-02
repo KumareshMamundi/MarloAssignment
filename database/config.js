@@ -1,8 +1,8 @@
 module.exports = {
-  HOST: "192.168.10.10",
-  USER: "jhaadmin",
-  PASSWORD: "admin@jha123",
-  DB: "JHA.Development",
+  HOST: "servername",
+  USER: "User",
+  PASSWORD: "pass",
+  DB: "DBname",
   dialect: "mssql",
   dialectOptions: {
     encrypt: true,
